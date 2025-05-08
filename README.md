@@ -5,6 +5,3 @@
 https://github.com/coreybutler/nvm-windows/releases
 
 nvm-setup.exe
-
-React + Next.js（產業主流框架）
-
