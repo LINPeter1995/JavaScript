@@ -10,7 +10,7 @@ nvm-setup.exe
 
 順序：JavaScript → Node.js → Express.js → React → Next.js
 
-1. JavaScript（程式語言基礎）
+	1. JavaScript（程式語言基礎）
 
 目標：掌握邏輯與基礎語法，為前後端開發打基礎
 	•	變數與資料型別：let, const, 陣列、物件、字串
@@ -20,7 +20,7 @@ nvm-setup.exe
 	•	非同步處理：Promise, async/await
 	•	錯誤處理：try/catch
 
-2. Node.js（後端執行環境）
+	2. Node.js（後端執行環境）
 
 目標：能用 JavaScript 操作伺服器與檔案系統
 	•	Node.js 模組系統：require, import
@@ -29,7 +29,7 @@ nvm-setup.exe
 	•	操作檔案與資料夾
 	•	npm 套件管理與指令（npm install, scripts）
 
-3. Express.js（Node.js 的後端框架）
+	3. Express.js（Node.js 的後端框架）
 
 目標：能建立 REST API 與簡易後端服務
 	•	建立 API 路由（GET、POST、PUT、DELETE）
@@ -39,7 +39,7 @@ nvm-setup.exe
 	•	CORS 與錯誤處理
 	•	初步與資料庫結合（MongoDB）
 
-4. React（前端 UI 函式庫）
+	4. React（前端 UI 函式庫）
 
 目標：能開發互動式畫面，讓資料可視化呈現
 	•	JSX 語法與元件化設計
@@ -49,7 +49,7 @@ nvm-setup.exe
 	•	表單處理與事件綁定
 	•	組件拆分與資料流控制
 
-5. Next.js（React 應用框架）
+	5. Next.js（React 應用框架）
 
 目標：部署網站、優化 SEO、結合後端 API
 	•	pages 目錄自動路由
