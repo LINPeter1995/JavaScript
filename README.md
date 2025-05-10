@@ -8,5 +8,5 @@ nvm-setup.exe
 
 學習地圖
 
-JavaScript - Node.js - Express.js - Next.js
+JavaScript -> Node.js -> Express.js -> Next.js
 
